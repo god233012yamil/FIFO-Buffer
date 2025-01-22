@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Author
 
 [Your Name]
-- GitHub: [@yourusername](https://github.com/god233012yamil)
+- GitHub: [@god233012yamil](https://github.com/god233012yamil)
 - Email: god233012yamil@yahoo.com
 
 ## Acknowledgments
